@@ -15,6 +15,6 @@ Python | Google Colab | Microsoft Lida | LLM model | OpenAI GPT 3.5 | Steamlit
 processing...
 
 ### Resources
-• Dataset - https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
-• Microsoft Lida - https://github.com/microsoft/lida/tree/d892e20be0cf8263644f2575f097ccecebebf812
-• OpenAI GPT 3.5 - 
+* Dataset - https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
+* Microsoft Lida - https://github.com/microsoft/lida/tree/d892e20be0cf8263644f2575f097ccecebebf812
+* OpenAI GPT 3.5 - 
