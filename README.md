@@ -52,3 +52,7 @@ Python | Google Colab | Microsoft Lida | LLM model | OpenAI GPT 3.5 | Steamlit |
 * Dataset - https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 * Microsoft Lida - https://github.com/microsoft/lida/tree/d892e20be0cf8263644f2575f097ccecebebf812
 * OpenAI GPT 3.5 - https://platform.openai.com/docs/models
+
+### Next Steps
+* Build the same notebook with GPT 4
+* Allow memory cache for model to update the plots as per instructions
